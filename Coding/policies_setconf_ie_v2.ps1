@@ -1,4 +1,5 @@
-# Para GIT
+# Para GIT - 1
+# Para GIT - 2
 # Inicializando variaveis globais
 $Global:checkPoliFile = "Initialized"
 $Global:backupFileName = "Initialized"
